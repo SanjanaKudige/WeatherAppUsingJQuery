@@ -1,0 +1,412 @@
+{
+  "cities": [
+    {
+      "name": "Santa Clara",
+      "weather": [
+        {
+          "date": "11/22/2019",
+          "time": "6:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Broken Clouds",
+              "mintemp": "65",
+              "maxtemp": "72",
+              "humidity": "44"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "7:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Few Clouds",
+              "mintemp": "64",
+              "maxtemp": "70",
+              "humidity": "50"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "9:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Mostly Cloudy",
+              "mintemp": "68",
+              "maxtemp": "75",
+              "humidity": "60"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "11:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Raining",
+              "mintemp": "74",
+              "maxtemp": "78",
+              "humidity": "20"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "1:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Slight Showers",
+              "mintemp": "76",
+              "maxtemp": "80",
+              "humidity": "70"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "3:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Sunny",
+              "mintemp": "75",
+              "maxtemp": "82",
+              "humidity": "70"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "5:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Few Clouds",
+              "mintemp": "69",
+              "maxtemp": "74",
+              "humidity": "50"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "7:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Fewer Clouds",
+              "mintemp": "67",
+              "maxtemp": "72",
+              "humidity": "40"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "9:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Broken Clouds",
+              "mintemp": "64",
+              "maxtemp": "70",
+              "humidity": "40"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "11:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Scattered Clouds",
+              "mintemp": "61",
+              "maxtemp": "70",
+              "humidity": "30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Milpitas",
+      "weather": [
+        {
+          "date": "11/22/2019",
+          "time": "6:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Few Clouds",
+              "mintemp": "62",
+              "maxtemp": "68",
+              "humidity": "40"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "7:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Broken Clouds",
+              "mintemp": "64",
+              "maxtemp": "70",
+              "humidity": "50"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "9:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Partly Cloudy",
+              "mintemp": "68",
+              "maxtemp": "75",
+              "humidity": "60"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "11:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Sunny",
+              "mintemp": "74",
+              "maxtemp": "78",
+              "humidity": "70"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "1:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Sunny",
+              "mintemp": "76",
+              "maxtemp": "80",
+              "humidity": "70"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "3:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Sunny",
+              "mintemp": "75",
+              "maxtemp": "82",
+              "humidity": "70"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "5:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Few Clouds",
+              "mintemp": "69",
+              "maxtemp": "74",
+              "humidity": "50"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "7:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Broken Clouds",
+              "mintemp": "67",
+              "maxtemp": "72",
+              "humidity": "40"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "9:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Broken Clouds",
+              "mintemp": "64",
+              "maxtemp": "70",
+              "humidity": "40"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "11:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Scattered Clouds",
+              "mintemp": "61",
+              "maxtemp": "70",
+              "humidity": "30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "San Jose",
+      "weather": [
+        {
+          "date": "11/22/2019",
+          "time": "6:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Few Clouds",
+              "mintemp": "62",
+              "maxtemp": "68",
+              "humidity": "40"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "7:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Broken Clouds",
+              "mintemp": "64",
+              "maxtemp": "70",
+              "humidity": "50"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "9:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Partly Cloudy",
+              "mintemp": "68",
+              "maxtemp": "75",
+              "humidity": "60"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "11:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Sunny",
+              "mintemp": "74",
+              "maxtemp": "78",
+              "humidity": "70"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "1:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Sunny",
+              "mintemp": "76",
+              "maxtemp": "80",
+              "humidity": "70"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "3:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Sunny",
+              "mintemp": "75",
+              "maxtemp": "82",
+              "humidity": "70"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "5:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Few Clouds",
+              "mintemp": "69",
+              "maxtemp": "74",
+              "humidity": "50"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "7:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Broken Clouds",
+              "mintemp": "67",
+              "maxtemp": "72",
+              "humidity": "40"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "9:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Broken Clouds",
+              "mintemp": "64",
+              "maxtemp": "70",
+              "humidity": "40"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "11:00 PM",
+          "weatherInfo": [
+            {
+              "description": "Scattered Clouds",
+              "mintemp": "61",
+              "maxtemp": "70",
+              "humidity": "30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "weather": []
+    },
+    {
+      "name": "Sunnyvale",
+      "weather": [
+        {
+          "date": "11/22/2019",
+          "time": "6:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Partly Cloudy",
+              "mintemp": "79",
+              "maxtemp": "81",
+              "humidity": "60"
+            }
+          ]
+        },
+        {
+          "date": "11/22/2019",
+          "time": "9:00 AM",
+          "weatherInfo": [
+            {
+              "description": "Sunny",
+              "mintemp": "85",
+              "maxtemp": "90",
+              "humidity": "70"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

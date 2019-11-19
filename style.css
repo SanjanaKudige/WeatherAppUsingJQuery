@@ -1,0 +1,191 @@
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  width: 25%;
+  padding: 0 10px;
+}
+
+.row {
+  margin: 0 -5px;
+  padding: 0, 10px;
+}
+
+/* .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  text-align: justified;
+  background-color: #f1f1f1;
+} */
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 200px;
+  row-gap: 40px;
+}
+
+.wrapper > div {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  /* border: 2px solid #ffa94d; */
+  border-radius: 5px;
+  background-color: white;
+  padding: 0 0 0 10px;
+  color: black;
+}
+
+.attachClass {
+  opacity: 0.5;
+}
+
+.modal {
+  opacity: 1;
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 40%;
+}
+
+div ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1e90ff;
+}
+
+div li a {
+  display: block;
+  font-size: 25px;
+  color: white;
+  text-align: inherit;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.button {
+  background-color: #e61476;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.buttonSearch {
+  background-color: #1e90ff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: fit-content;
+}
+
+.button3 {
+  padding: 14px 40px;
+}
+
+.searchBtn {
+  width: 12%;
+  height: 45px;
+  background-color: #1e90ff;
+  font-size: initial;
+}
+
+input { 
+  font-size: 18px; 
+}
+
+/* .searchBtn > div {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border: 2px solid #ffa94d;
+  border-radius: 5px;
+  background-color: white;
+  padding: 1em;
+  color: black;
+} */
+
+.dropdown {
+  float: right;
+  width: 12%;
+  height: 45px;
+  background-color: white;
+  font-size: initial;
+}
+
+.searchBar {
+  /* width: 100px; */
+  width: 75%;
+  height: 45px;
+}
+
+.searchWithButtons {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.cityTitle {
+  text-align: center;
+  color: grey;
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+
+.errorClass {
+  text-align: center;
+  color: grey;
+  font-size: 40px;
+}
+
+.minTemp {
+  font-size: 18px;
+  color: red;
+}
+
+.maxTemp {
+  font-size: 18px;
+  color: blue;
+}
+
+.humidity {
+  font-size: 18px;
+  color: green;
+}
+
+.dateTime {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.weatherInfo {
+  font-size: 18px;
+}
+
+.myCancel, .myAlert {
+  color:blue;
+}
